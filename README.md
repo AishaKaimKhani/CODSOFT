@@ -15,3 +15,4 @@ Error-free: The signup flow should be free of errors, so that users do not have 
 process.
 Secure: The signup flow should be secure, so that users' personal information is protected.
 
+Figma Link: https://www.figma.com/file/MZgqWhvfRjnsCw5SAlEdV2/Codsoft-task-1-Mobile-app-sign-up?type=design&node-id=0%3A1&mode=design&t=0Qm7BbYMplzZevog-1
