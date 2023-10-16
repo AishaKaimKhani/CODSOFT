@@ -16,3 +16,23 @@ process.
 Secure: The signup flow should be secure, so that users' personal information is protected.
 
 Figma Link: https://www.figma.com/file/MZgqWhvfRjnsCw5SAlEdV2/Codsoft-task-1-Mobile-app-sign-up?type=design&node-id=0%3A1&mode=design&t=0Qm7BbYMplzZevog-1
+
+TASK 
+Restaurant menu
+A restaurant menu UI/UX project is the process of designing a menu that is
+both visually appealing and easy to use. 
+Goal: The goal of a good restaurant menu
+is to make it easy for customers to find the dishes they want, and to
+encourage them to order more.
+FOR DEMO CLICK HERE
+Visually appealing: The menu is visually appealing and easy to read. The use of
+colors, fonts, and images should be carefully considered to create a visually appealing
+menu.
+Easy to use: The menu is easy to use and navigate. The customer should be able to
+easily find the necessary information and make their selections.
+Categorized: The menu is categorized, so that customers can easily find the dishes
+they are looking for. The categories should be clear and concise, and they should be
+consistent throughout the menu.
+
+Figma link: https://www.figma.com/file/JIPaYGX5EJOnpB59OdC3Jo/Codsoft-%2FRes-Menu?type=design&node-id=0-1&mode=design&t=gBtYECjz1upedmaA-0
+
