@@ -24,7 +24,6 @@ both visually appealing and easy to use.
 Goal: The goal of a good restaurant menu
 is to make it easy for customers to find the dishes they want, and to
 encourage them to order more.
-FOR DEMO CLICK HERE
 Visually appealing: The menu is visually appealing and easy to read. The use of
 colors, fonts, and images should be carefully considered to create a visually appealing
 menu.
@@ -35,4 +34,13 @@ they are looking for. The categories should be clear and concise, and they shoul
 consistent throughout the menu.
 
 Figma link: https://www.figma.com/file/JIPaYGX5EJOnpB59OdC3Jo/Codsoft-%2FRes-Menu?type=design&node-id=0-1&mode=design&t=gBtYECjz1upedmaA-0
+
+Task 3
+e-Commerce Website
+An e-commerce website named as Wardrobe" task assigned by @Codesoft. A UI/UX project is the process of designing an online
+store that is both visually appealing and easy to use. The goal of a good ecommerce website is to make it easy for customers to find the products
+they want, and to encourage them to buy them.
+Figma link : https://www.figma.com/file/X5KeMG4d2fAGDD4QJgp9ss/e-com-web-Wardrobe.-(Community)?type=design&node-id=0-1&mode=design&t=ukxKetbq4QdPX1Xh-0
+
+
 
